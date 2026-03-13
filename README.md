@@ -1,4 +1,4 @@
-# Hi, I'm Dhanush 👋
+# Hey, I'm Dhanush 👋
 
 🚀 Full Stack Developer | MERN Stack
 📍 India
